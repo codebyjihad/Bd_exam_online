@@ -1,6 +1,9 @@
 @import "tailwindcss";
 @plugin "daisyui";
-
+@import url('https://fonts.googleapis.com/css?family=Atma');
+@theme {
+  --font-bangla:  'Atma', cursive;
+}
 .active{
     color: green;
 }
