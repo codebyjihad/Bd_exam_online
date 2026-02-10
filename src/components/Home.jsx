@@ -3,7 +3,7 @@ const Home = () => {
     <section className="flex flex-col lg:flex-row container mx-auto py-8 gap-8 justify-between items-center">
       <div className="lg:w-1/2 px-3">
         <img
-          src="/public/hero.png"
+          src="/hero.png"
           alt="hero-image"
           className="w-full rounded"
         />
